@@ -1,6 +1,6 @@
 # Summary
-Example project to show how unit testing can be done in NodeJS.  
-The app is just a simple web server that allows to list, create and delete Tags in an in-memory collection.  
+Example project to show how unit testing can be done in NodeJS.
+The app is just a simple web server that allows to list, create and delete Tags in an in-memory collection.
 The in-memory collection is the component that is unit tested.
 
 # Instructions
